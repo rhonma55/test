@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "class5",
+			"path": "../../TaniClass/class5"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp"
+		}
+	}
+}
